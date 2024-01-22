@@ -1,2 +1,4 @@
 Cabeza
 Cuerpo
+Brazo Izquierdo
+Brazo Derecho
