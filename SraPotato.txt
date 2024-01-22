@@ -2,3 +2,5 @@ Cabeza
 Cuerpo
 Brazo Izquierdo
 Brazo Derecho
+Pierna Izquierda
+Pierna Derecha
